@@ -8,8 +8,9 @@
 
 **Installation and Setup**
 1. Clone the repository:
+    git clone https://github.com/Dhruvpatel1804/Poll_Project.git
     
-3. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
     $python3 -m venv env
     $source env/bin/activate
     
@@ -24,6 +25,6 @@
 
 **Usage**
 
-Adding a Custom Question: As an admin user, navigate to the admin panel and create a new poll question. Enter the question text and provide options for users to vote on.
-Voting: Users can select their preferred option from the list of choices and submit their vote. The vote count for each option will be updated in real-time.
-Viewing Results: After voting, users can see the updated results of the poll. The results are displayed as a percentage for each option, allowing users to understand the distribution of votes.
+* Adding a Custom Question: As an admin user, navigate to the admin panel and create a new poll question. Enter the question text and provide options for users to vote on.
+* Voting: Users can select their preferred option from the list of choices and submit their vote. The vote count for each option will be updated in real-time.
+* Viewing Results: After voting, users can see the updated results of the poll. The results are displayed as a percentage for each option, allowing users to understand the distribution of votes.
